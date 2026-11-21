@@ -316,3 +316,8 @@ These flags prevent Chromium from writing caches even if the tmpfs mounts are re
 ## License
 
 MIT
+
+## Terminology and evidence
+
+See [Terminology and evidence](TERMINOLOGY.md) for naming, compatibility and
+evidence conventions used in new work.
